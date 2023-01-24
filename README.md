@@ -7,7 +7,7 @@
 - What is the average amount of debt owed by countries across different debt indicators?
 
 ## 2. Highlighted components 
-- KEYWORDS: SELECT(), LIMIT, SELECT DISTINCT, GROUP BY(), ORDER BY(), WHERE
+- KEYWORDS: SELECT(), LIMIT, SELECT DISTINCT, GROUP BY, ORDER BY, WHERE
 - AGGREGATE FUNCTIONS: COUNT(), SUM(), AVG(), MAX()
 
 ## 3. Dataset
