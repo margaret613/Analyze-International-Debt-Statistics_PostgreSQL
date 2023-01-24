@@ -7,10 +7,8 @@
 - What is the average amount of debt owed by countries across different debt indicators?
 
 ## 2. Highlighted components 
-- STATEMENT: SELECT(), LIMIT, SELECT DISTINCT, GROUP BY()
+- KEYWORDS: SELECT(), LIMIT, SELECT DISTINCT, GROUP BY(), ORDER BY(), WHERE
 - AGGREGATE FUNCTIONS: COUNT(), SUM(), AVG(), MAX()
-- KEYWORD: ORDER BY()
-- CLAUSE: WHERE
 
 ## 3. Dataset
 The data used in this project is collected by The World Bank. It presents debt statistics (in USD) from several nations recorded from 1970 to 2015. 
