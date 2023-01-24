@@ -1,4 +1,4 @@
-# Analyze International Debt Statistics (guided by DataCamp)
+# Analyze International Debt Statistics (Guided by DataCamp)
 **In this project, I am going to analyze my data using PostgreSQL to find out the distinct debt indicators, the number of distinct countries, the total amount of debt owed by the countries, country with the highest debt, average amount of debt across indicators, the highest amount of principal repayments, the most common debt indicator,...**
 
 ## 1. Questions to answer
