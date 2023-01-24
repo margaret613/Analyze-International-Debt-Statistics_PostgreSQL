@@ -12,8 +12,8 @@
 - KEYWORD: ORDER BY()
 - CLAUSE: WHERE
 
-## 3. Data
-The data used in this project is provided by The World Bank. It presents the debt statistics from several nations recorded from 1970 to 2015. 
+## 3. Dataset
+The data used in this project is collected by The World Bank. It presents debt statistics (in USD) from several nations recorded from 1970 to 2015. 
 
 
 
